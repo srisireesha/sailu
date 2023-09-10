@@ -1,3 +1,6 @@
 i
+kill
+u
+i
 lock
 u
